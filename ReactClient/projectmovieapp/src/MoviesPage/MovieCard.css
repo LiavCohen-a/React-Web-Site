@@ -1,0 +1,77 @@
+.Card{
+  border: 5px;
+  border-style: solid;
+  border-color: black;
+  width: 40%;
+  height: auto;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+.Card1{
+  border: 5px;
+  border-style: solid;
+  border-color: black;
+  width: 40%;
+  height: auto;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+img{
+  width: 100px;
+  height: 150px;
+  
+}
+.img{
+  margin-left: 10px;
+
+}
+.Div{
+  display: flex;
+  align-items: flex-start;
+
+}
+.Sub{
+  border: 5px;
+  border-style: solid;
+  border-color: black;
+  width: 80%;
+  height: 140px;
+  margin-left: 10px;
+  
+}
+.MovieWatched{
+  border: 4px;
+  border-style: solid;
+  border-color: black;
+  width: 80%;
+  height: auto;
+  margin-left: 10px;
+}
+.SubA{
+  border: 3px;
+  border-style: solid;
+  border-color: black;
+  width: 90%;
+  height: 60px;
+  margin-left: 10px;
+  margin-top: 10px;
+  display: none;
+}
+.SubB{
+  border: 3px;
+  border-style: solid;
+  border-color: black;
+  width: 90%;
+  height: 60px;
+  margin-left: 10px;
+  margin-top: 10px;
+  display: block;
+}
+.FatherDiv{
+  margin-left: 10px;
+  border: 6px;
+  border-style: solid;
+  border-color: black;
+  width: 80%;
+  height: 100%;
+}
